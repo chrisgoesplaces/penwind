@@ -1,0 +1,8 @@
+{
+  "name": "penwind",
+  "description": "Human-in-the-loop language eval for Spanish and Portuguese learners. Students submit creative writing, articulate their intent, and receive level-appropriate feedback formatted for teacher review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Chris Lincoln"
+  }
+}
