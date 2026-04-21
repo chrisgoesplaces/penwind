@@ -1,0 +1,14 @@
+# Environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local test notes
+*.log
+
+# Plugin build artifacts
+*.plugin
+*.zip

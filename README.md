@@ -142,6 +142,9 @@ Separate teacher and student agents. Teachers set curriculum context via a Proje
 **v2 — Optional session logging**
 User-level hooks in `~/.claude/settings.json` to log session events locally. Documentation will be provided for teachers who want cross-student records.
 
+**v2 — Non-English instruction language**
+All coaching and explanations are currently in English, with examples and corrections in the target language. A future version will support instruction in other languages for students whose first language is not English. Likely tied to teacher-set Project context.
+
 **v2 — Additional languages**
 French, Italian, German — same architecture, language-specific eval logic.
 
