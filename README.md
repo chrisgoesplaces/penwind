@@ -56,7 +56,7 @@ After the artifact is produced, the student can ask PenWind to transform their s
 
 1. Open Claude Desktop
 2. Go to Settings → Plugins
-3. Search for **PenWind**
+3. If you pull down this repo, you can install on your own computer (coming to the marketplace soon)
 4. Click Install
 
 ---
