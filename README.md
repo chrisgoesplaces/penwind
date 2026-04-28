@@ -1,4 +1,4 @@
-# PenWind
+# Penwind
 
 A Claude Cowork plugin for intermediate Spanish and Portuguese learners. Students submit a creative story, articulate their intent, and receive structured feedback formatted for teacher review.
 
@@ -8,7 +8,7 @@ Free. No backend. No signup.
 
 ## What it does
 
-PenWind runs a student's writing through three sequential agents, each with visible reasoning at every step. The session ends with a structured teacher artifact the student can share directly.
+Penwind runs a student's writing through three sequential agents, each with visible reasoning at every step. The session ends with a structured teacher artifact the student can share directly.
 
 **The core principle:** evaluation should follow intent. PenWind asks what a student meant to express before judging whether they expressed it correctly. This mirrors how a good human teacher would approach creative writing — understanding the student's thinking first, then assessing execution.
 
@@ -102,7 +102,7 @@ Session state lives in the Cowork conversation. The teacher artifact is the reco
 Keeping sessions local also means they are private by design. A student's writing, their mistakes, and their reasoning never leave their machine unless they choose to share the teacher artifact. There is no database, no account, no data collection. The only thing that exists outside the session is what the student deliberately hands to their teacher.
 
 **Why free?**
-PenWind is a proof of concept for human-in-the-loop eval design. The goal is real usage and real teacher artifacts, not revenue.
+Penwind is a proof of concept for human-in-the-loop eval design. The goal is real usage and real teacher artifacts, not revenue.
 
 ---
 
@@ -152,7 +152,7 @@ French, Italian, German — same architecture, language-specific eval logic.
 
 ## Background
 
-PenWind was built to demonstrate human-in-the-loop eval design in a domain where intent genuinely precedes correctness. The same architectural pattern — confirm intent, evaluate against that intent, surface reasoning visibly — applies to higher-stakes AI systems where evaluation without understanding intent produces misleading results.
+Penwind was built to demonstrate human-in-the-loop eval design in a domain where intent genuinely precedes correctness. The same architectural pattern — confirm intent, evaluate against that intent, surface reasoning visibly — applies to higher-stakes AI systems where evaluation without understanding intent produces misleading results.
 
 The plugin is free and open source. If you use it with students, feedback is welcome via GitHub issues.
 
