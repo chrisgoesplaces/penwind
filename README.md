@@ -53,11 +53,12 @@ After the artifact is produced, the student can ask PenWind to transform their s
 ---
 
 ## Installation
+1. Download the latest release: [penwind.zip](https://github.com/chrisgoesplaces/penwind/releases/latest/download/penwind.zip)
+2. Open Claude Desktop and make sure Cowork is enabled
+3. In Cowork, go to **Customize → Create Plugin → Upload plugin**
+4. Drag `penwind.zip` into the upload area and confirm
 
-1. Open Claude Desktop
-2. Go to Settings → Plugins
-3. If you pull down this repo, you can install on your own computer (coming to the marketplace soon)
-4. Click Install
+PenWind will appear in your installed plugins. Start a session by typing `@agent-penwind:intent` in any Cowork conversation.
 
 ---
 
